@@ -25,10 +25,9 @@
 - Jumper Wires 15cm Male to Male - Pack of 10
 - Jumper Wires 15cm Female to Female - Pack of 10
 - Jumper Wires 15cm Female to Male - Pack of 10
-- Αντιστάσεις (Resistor Basic Kit - 100pcs)
+- LED Red Diffused 5mm & Resistor 200Ω - 10pcs
 - Jumper Wires 4-Pin
 - Gravity HUSKYLENS - An Easy-to-use AI Machine Vision Sensor
-- LED Diffused 5mm Red
 
 **Ενδεικτικό κόστος**: 89euro
 
