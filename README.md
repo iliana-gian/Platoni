@@ -19,6 +19,8 @@
 
 **Διεύθυνση αποθετηρίου στο Github**: https://github.com/iliana-gian/Platoni
 
+**Εδώ**: https://www.youtube.com/watch?v=73qzWL0BaiY μπορείτε να δείτε βίντεο με τη λειτουργία του μηχανισμού.
+
 **Λίστα προτεινόμενου εξοπλισμού**:
 - Uno SMD Compatible - CH340
 - Breadboard
